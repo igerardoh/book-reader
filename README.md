@@ -9,3 +9,10 @@ The final result is a scatter plot created with the matplotlib library. This sca
 ![scatter_plot](https://github.com/igerardoh/book-reader/blob/master/total_vs_unique_words.png "relation between unique words and total amount of words")
 
 For extra details, this algorithm also output a .txt file containg the frequency of every unique word by language, author, and book title.
+
+### TODO :
+
+  - ~~Iterate and read all the files through every subfolder.~~
+  - ~~Count the number of unique words by file.~~
+  - ~~Count every word's frequency by file.~~
+  - ~~Visualize the results by language.~~
