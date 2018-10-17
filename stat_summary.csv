@@ -1,103 +1,103 @@
 ,lang,author,book_title,process_time,uniq_words,total_words
-0,english,shakespeare,A Midsummer Night's Dream,36.44,3226,16972
-1,english,shakespeare,Hamlet,66.07,4794,29575
-2,english,shakespeare,Macbeth,39.44,3552,17646
-3,english,shakespeare,Othello,60.86,4032,27379
-4,english,shakespeare,Richard III,78.3,4705,34665
-5,english,shakespeare,Romeo and Juliet,64.33,4325,28920
-6,english,shakespeare,The Merchant of Venice,48.53,3529,21951
-7,french,chevalier,L'ale de sable,643.08,13420,77237
-8,french,chevalier,L'enfer et le paradis de l'autre monde,104.55,7549,44085
-9,french,chevalier,La capitaine,122.14,9421,49153
-10,french,chevalier,La fille des indiens rouges,191.84,12677,72098
-11,french,chevalier,La fille du pirate,137.34,11148,52969
-12,french,chevalier,Le chasseur noir,136.46,8860,55197
-13,french,chevalier,Les derniers Iroquois,154.06,11370,59296
-14,french,de Maupassant,Boule de Suif,94.99,8322,39201
-15,french,de Maupassant,Claire de Lune,64.95,6434,28054
-16,french,de Maupassant,Contes de la Becasse,89.39,7948,37309
-17,french,de Maupassant,Euvres completes de Guy de Maupassant,149.95,11747,57768
-18,french,de Maupassant,L'inutile beaut,97.89,7967,41145
-19,french,de Maupassant,La Main Gauche,87.27,7431,37089
-20,french,de Maupassant,La Maison Tellier,118.32,9308,47994
-21,french,de Maupassant,La petite roque,106.5,8027,44309
-22,french,de Maupassant,Le Horla,107.05,8129,44560
-23,french,diderot,Ceci n'est pas un conte,24.03,3111,11379
-24,french,diderot,Entretien d'un pare avec ses enfants,24.89,3027,11679
-25,french,diderot,L'oiseau blanc,52.08,4992,23468
-26,french,diderot,Les deux amis de Bourbonne,18.28,2545,8804
-27,french,diderot,Regrets sur ma vieille robe de chambre,10.74,1636,5264
-28,french,sand,cora,28.33,3742,13224
-29,french,sand,Jacques le fataliste et son maatre,248.86,12076,95090
-30,french,sand,L' Orco,19.73,2683,9414
-31,french,sand,La Coupe; Lupo Liverani; Le Toast; Garnier; Le Contrebandier; La Raverie o Paris,123.93,9264,50760
-32,french,sand,La Marquise,34.6,4030,15929
-33,french,sand,Le Piccinino,482.25,16332,166328
-34,french,sand,Le poame de Myrza,29.64,3703,13768
-35,french,sand,Mattea,51.37,5266,22937
-36,french,sand,Metella,47.62,4479,21361
-37,french,sand,Oeuvres illustres de George Sand,56.34,6256,24681
-38,french,sand,Pauline,68.8,6086,30026
-39,german,lessing,der freigeist,53.98,4269,24409
-40,german,lessing,der junge gelehrte,65.02,4715,29101
-41,german,lessing,die juden,28.78,2894,13515
-42,german,lessing,emilia galotti,51.84,4813,22985
-43,german,lessing,hamburgische dramaturgie,457.0,18903,153864
-44,german,lessing,minna von barnhelm,62.65,5032,27906
-45,german,lessing,miss sara sampson,65.71,4883,29275
-46,german,lessing,philotas,20.87,2584,9961
-47,german,raimund,Das Madchen aus der Feenwelt,51.08,4641,23013
-48,german,raimund,Der Alpenkinig und der Menschenfeind,54.96,4835,24377
-49,german,raimund,Der Barometermacher auf der Zauberinsel,36.65,3889,16747
-50,german,raimund,Der Diamant des Geisterkinigs,42.94,4288,19531
-51,german,raimund,Der Verschwender,58.57,4964,25898
-52,german,raimund,Die gefesselte Phantasie,38.64,4263,17635
-53,german,raimund,Die unheilbringende Krone,57.85,5433,25586
-54,german,raimund,Moisasurs Zauberfluch,41.34,4236,18845
-55,german,schiller,Der Neffe als Onkel,31.5,3150,14680
-56,german,schiller,"Der Parasit, oder die Kunst, sein Glack zu machen",46.61,4441,20967
-57,german,schiller,die braut von messina,52.71,5553,23234
-58,german,schiller,Die Huldigung der Kanste,8.21,1539,4096
-59,german,schiller,Die Jungfrau von Orleans,64.42,5931,28026
-60,german,schiller,Die Piccolomini,54.71,5490,24276
-61,german,schiller,Die Verschwirung des Fiesco zu Genua,75.15,7516,31818
-62,german,schiller,Kabale und Liebe,75.06,7390,32031
-63,german,schiller,"Turandot, Prinzessin von China",52.5,5157,23400
-64,german,schiller,Wallensteins Lager,29.7,3925,13669
-65,german,schiller,Wallensteins Tod,79.69,6624,34377
-66,german,shakespeare,Der Kaufmann von Venedig,53.6,5069,23853
-67,german,shakespeare,Ein Sommernachtstraum,41.59,4880,18737
-68,german,shakespeare,Hamlet,82.43,6899,35578
-69,german,shakespeare,Macbeth,48.43,5079,21593
-70,german,shakespeare,Othello,43.31,5022,19579
-71,german,shakespeare,Richard III,70.52,6299,30538
-72,german,shakespeare,Romeo und Julia,53.06,5365,23293
-73,portuguese,branco,A Filha do Arcediago,207.31,12740,78149
-74,portuguese,branco,A Neta do Arcediago,147.66,10690,58000
-75,portuguese,branco,A Queda d'um Anjo,139.31,12274,52895
-76,portuguese,branco,Agulha em Palheiro,118.03,10048,46938
-77,portuguese,branco,Amor de Perdicao,127.7,9580,51352
-78,portuguese,branco,Amor de Salvacao,135.25,11600,52100
-79,portuguese,branco,Annos de Prosa,179.81,12960,67263
-80,portuguese,branco,Carlota Angela,127.0,10465,50429
-81,portuguese,branco,Estrellas Funestas,129.95,10431,51228
-82,portuguese,branco,Estrellas Propicias,116.42,9644,47073
-83,portuguese,branco,Lagrimas Abenaoadas,121.84,9699,49025
-84,portuguese,branco,Livro de Consolacao,153.51,12429,58501
-85,portuguese,branco,O Olho de Vidro,120.58,10423,48083
-86,portuguese,branco,O que fazem mulheres,108.93,9819,43882
-87,portuguese,branco,O Regicida,141.48,11662,55239
-88,portuguese,branco,Scenas Contemporaneas,135.49,11097,53202
-89,portuguese,dinis,A Morgadinha dos Cannaviaes,459.28,19715,148738
-90,portuguese,dinis,Os fidalgos da Casa Mourisca,431.64,17492,144454
-91,portuguese,dinis,Uma familia ingleza,367.22,17612,121923
-92,portuguese,Queiros,A Cidade e as Serras,200.02,14453,71227
-93,portuguese,Queiros,A correspondancia de Fradique Mendes,154.34,13465,56881
-94,portuguese,Queiros,A Illustre Casa de Ramires,319.45,17577,107379
-95,portuguese,Queiros,A Reliquia,240.76,15747,84947
-96,portuguese,Queiros,Cartas de Inglaterra,124.14,11205,48481
-97,portuguese,Queiros,O crime do padre Amaro,430.42,18832,141629
-98,portuguese,Queiros,O Mandarim,51.92,6831,22486
-99,portuguese,Queiros,O Primo Bazilio,348.89,17980,118417
-100,portuguese,Queiros,Os Maias,759.4,24453,215271
-101,portuguese,shakespeare,Hamlet,85.06,7206,34327
+0,english,shakespeare,A Midsummer Night's Dream,81.3,3226,16972
+1,english,shakespeare,Hamlet,145.04,4794,29575
+2,english,shakespeare,Macbeth,86.92,3552,17646
+3,english,shakespeare,Othello,131.33,4032,27379
+4,english,shakespeare,Richard III,164.85,4705,34665
+5,english,shakespeare,Romeo and Juliet,136.36,4325,28920
+6,english,shakespeare,The Merchant of Venice,99.99,3529,21951
+7,french,chevalier,L'ale de sable,498.27,13420,77237
+8,french,chevalier,L'enfer et le paradis de l'autre monde,238.54,7549,44085
+9,french,chevalier,La capitaine,281.6,9421,49153
+10,french,chevalier,La fille des indiens rouges,468.99,12677,72098
+11,french,chevalier,La fille du pirate,325.74,11148,52969
+12,french,chevalier,Le chasseur noir,317.44,8860,55197
+13,french,chevalier,Les derniers Iroquois,368.96,11370,59296
+14,french,de Maupassant,Boule de Suif,216.56,8322,39201
+15,french,de Maupassant,Claire de Lune,142.55,6434,28054
+16,french,de Maupassant,Contes de la Becasse,200.75,7948,37309
+17,french,de Maupassant,Euvres completes de Guy de Maupassant,353.4,11747,57768
+18,french,de Maupassant,L'inutile beaut,222.65,7967,41145
+19,french,de Maupassant,La Main Gauche,197.98,7431,37089
+20,french,de Maupassant,La Maison Tellier,274.03,9308,47994
+21,french,de Maupassant,La petite roque,241.7,8027,44309
+22,french,de Maupassant,Le Horla,244.25,8129,44560
+23,french,diderot,Ceci n'est pas un conte,50.01,3111,11379
+24,french,diderot,Entretien d'un pare avec ses enfants,51.34,3027,11679
+25,french,diderot,L'oiseau blanc,111.02,4992,23468
+26,french,diderot,Les deux amis de Bourbonne,37.41,2545,8804
+27,french,diderot,Regrets sur ma vieille robe de chambre,21.43,1636,5264
+28,french,sand,cora,59.1,3742,13224
+29,french,sand,Jacques le fataliste et son maatre,587.25,12076,95090
+30,french,sand,L' Orco,40.13,2683,9414
+31,french,sand,La Coupe; Lupo Liverani; Le Toast; Garnier; Le Contrebandier; La Raverie o Paris,286.1,9264,50760
+32,french,sand,La Marquise,72.76,4030,15929
+33,french,sand,Le Piccinino,1224.93,16332,166328
+34,french,sand,Le poame de Myrza,61.93,3703,13768
+35,french,sand,Mattea,110.6,5266,22937
+36,french,sand,Metella,100.27,4479,21361
+37,french,sand,Oeuvres illustres de George Sand,122.93,6256,24681
+38,french,sand,Pauline,150.21,6086,30026
+39,german,lessing,der freigeist,113.71,4269,24409
+40,german,lessing,der junge gelehrte,139.11,4715,29101
+41,german,lessing,die juden,59.06,2894,13515
+42,german,lessing,emilia galotti,107.89,4813,22985
+43,german,lessing,hamburgische dramaturgie,1142.2,18903,153864
+44,german,lessing,minna von barnhelm,133.03,5032,27906
+45,german,lessing,miss sara sampson,140.43,4883,29275
+46,german,lessing,philotas,42.68,2584,9961
+47,german,raimund,Das Madchen aus der Feenwelt,109.24,4641,23013
+48,german,raimund,Der Alpenkinig und der Menschenfeind,117.5,4835,24377
+49,german,raimund,Der Barometermacher auf der Zauberinsel,76.88,3889,16747
+50,german,raimund,Der Diamant des Geisterkinigs,90.75,4288,19531
+51,german,raimund,Der Verschwender,124.78,4964,25898
+52,german,raimund,Die gefesselte Phantasie,81.9,4263,17635
+53,german,raimund,Die unheilbringende Krone,125.74,5433,25586
+54,german,raimund,Moisasurs Zauberfluch,87.77,4236,18845
+55,german,schiller,Der Neffe als Onkel,64.84,3150,14680
+56,german,schiller,"Der Parasit, oder die Kunst, sein Glack zu machen",97.43,4441,20967
+57,german,schiller,die braut von messina,113.25,5553,23234
+58,german,schiller,Die Huldigung der Kanste,16.32,1539,4096
+59,german,schiller,Die Jungfrau von Orleans,139.7,5931,28026
+60,german,schiller,Die Piccolomini,117.33,5490,24276
+61,german,schiller,Die Verschwirung des Fiesco zu Genua,165.28,7516,31818
+62,german,schiller,Kabale und Liebe,165.43,7390,32031
+63,german,schiller,"Turandot, Prinzessin von China",112.55,5157,23400
+64,german,schiller,Wallensteins Lager,62.12,3925,13669
+65,german,schiller,Wallensteins Tod,174.85,6624,34377
+66,german,shakespeare,Der Kaufmann von Venedig,114.47,5069,23853
+67,german,shakespeare,Ein Sommernachtstraum,88.07,4880,18737
+68,german,shakespeare,Hamlet,180.24,6899,35578
+69,german,shakespeare,Macbeth,102.41,5079,21593
+70,german,shakespeare,Othello,92.54,5022,19579
+71,german,shakespeare,Richard III,151.7,6299,30538
+72,german,shakespeare,Romeo und Julia,111.66,5365,23293
+73,portuguese,branco,A Filha do Arcediago,488.96,12740,78149
+74,portuguese,branco,A Neta do Arcediago,342.99,10690,58000
+75,portuguese,branco,A Queda d'um Anjo,333.35,12274,52895
+76,portuguese,branco,Agulha em Palheiro,275.29,10048,46938
+77,portuguese,branco,Amor de Perdicao,296.79,9580,51352
+78,portuguese,branco,Amor de Salvacao,322.33,11600,52100
+79,portuguese,branco,Annos de Prosa,436.01,12960,67263
+80,portuguese,branco,Carlota Angela,299.18,10465,50429
+81,portuguese,branco,Estrellas Funestas,305.61,10431,51228
+82,portuguese,branco,Estrellas Propicias,271.82,9644,47073
+83,portuguese,branco,Lagrimas Abenaoadas,284.45,9699,49025
+84,portuguese,branco,Livro de Consolacao,369.52,12429,58501
+85,portuguese,branco,O Olho de Vidro,283.07,10423,48083
+86,portuguese,branco,O que fazem mulheres,254.62,9819,43882
+87,portuguese,branco,O Regicida,335.32,11662,55239
+88,portuguese,branco,Scenas Contemporaneas,320.58,11097,53202
+89,portuguese,dinis,A Morgadinha dos Cannaviaes,1200.59,19715,148738
+90,portuguese,dinis,Os fidalgos da Casa Mourisca,1126.08,17492,144454
+91,portuguese,dinis,Uma familia ingleza,969.08,17612,121923
+92,portuguese,Queiros,A Cidade e as Serras,508.4,14453,71227
+93,portuguese,Queiros,A correspondancia de Fradique Mendes,388.24,13465,56881
+94,portuguese,Queiros,A Illustre Casa de Ramires,834.74,17577,107379
+95,portuguese,Queiros,A Reliquia,616.67,15747,84947
+96,portuguese,Queiros,Cartas de Inglaterra,300.57,11205,48481
+97,portuguese,Queiros,O crime do padre Amaro,1129.89,18832,141629
+98,portuguese,Queiros,O Mandarim,116.44,6831,22486
+99,portuguese,Queiros,O Primo Bazilio,900.4,17980,118417
+100,portuguese,Queiros,Os Maias,1989.46,24453,215271
+101,portuguese,shakespeare,Hamlet,183.22,7206,34327
